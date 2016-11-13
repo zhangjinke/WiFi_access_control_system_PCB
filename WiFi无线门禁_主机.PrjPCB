@@ -33,7 +33,7 @@ OutputPath=
 
 [Document1]
 DocumentPath=WiFi无线门禁_主机.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -49,7 +49,7 @@ GenerateClassCluster=0
 
 [Document2]
 DocumentPath=RC522.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -81,7 +81,7 @@ GenerateClassCluster=0
 
 [Document4]
 DocumentPath=STM32F103ZE.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -97,7 +97,7 @@ GenerateClassCluster=0
 
 [Document5]
 DocumentPath=LCD.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -113,7 +113,7 @@ GenerateClassCluster=0
 
 [Document6]
 DocumentPath=TF.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -129,7 +129,7 @@ GenerateClassCluster=0
 
 [Document7]
 DocumentPath=FINGER_PRINT.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -145,7 +145,7 @@ GenerateClassCluster=0
 
 [Document8]
 DocumentPath=SRAM.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -161,7 +161,7 @@ GenerateClassCluster=0
 
 [Document9]
 DocumentPath=DS1307.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -177,7 +177,7 @@ GenerateClassCluster=0
 
 [Document10]
 DocumentPath=BUZZER.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -193,7 +193,7 @@ GenerateClassCluster=0
 
 [Document11]
 DocumentPath=RELAY.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -209,7 +209,7 @@ GenerateClassCluster=0
 
 [Document12]
 DocumentPath=POWER.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -225,12 +225,12 @@ GenerateClassCluster=0
 
 [Document13]
 DocumentPath=CONNECTOR.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -254,6 +254,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for WiFi无线门禁_主机\Board Information - WiFi无线门禁_主机.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration

@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : D:\项目-比赛\创新团队\2016 WiFi门禁\WiFi_access_control_system_PCB\WiFi无线门禁_主机.PcbDoc
-Date         : 2016/11/6
-Time         : 18:30:46
+Date         : 2016/11/13
+Time         : 17:13:37
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 99.74%
-    Connections, 379
-    Connections routed, 378
-    Connections remaining, 1
+    Routing completion, 100.00%
+    Connections, 368
+    Connections routed, 368
+    Connections remaining, 0
 count : 4
